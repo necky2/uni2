@@ -1,0 +1,95 @@
+{
+  "product": "uu_uni2l_maing01",
+  "version": "0.1.0",
+  "license": "License Commercial",
+  "description": {
+    "en": "",
+    "cs": ""
+  },
+  "devkit": {
+    "development": {
+      "appBoxLocationUri": "----- VALUE REQUIRED -----",
+      "appDeploymentUri": null
+    }
+  },
+  "uu_uni2l_maing01-hi": {
+    "componentList": [
+      {
+        "code": "UuUni2l.Routes.MyFirstRoute",
+        "name": "MyFirstRoute",
+        "tagList": [
+          "UuUni2l",
+          "Routes",
+          "MyFirstRoute"
+        ],
+        "docCode": "UuUni2lRoutesMyFirstRoute",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni2l.Routes.MyFirstRoute />"
+      },
+      {
+        "code": "UuUni2l.Bricks.AddFive",
+        "name": "AddFive",
+        "tagList": [
+          "UuUni2l",
+          "Bricks",
+          "AddFive"
+        ],
+        "docCode": "UuUni2lBricksAddFive",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni2l.Bricks.AddFive />"
+      },
+      {
+        "code": "UuUni2l.Bricks.ResponsiveComponent",
+        "name": "ResponsiveComponent",
+        "tagList": [
+          "UuUni2l",
+          "Bricks",
+          "ResponsiveComponent"
+        ],
+        "docCode": "UuUni2lBricksResponsiveComponent",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni2l.Bricks.ResponsiveComponent />"
+      },
+      {
+        "code": "UuUni2l.Bricks.ContextAddFive",
+        "name": "ContextAddFive",
+        "tagList": [
+          "UuUni2l",
+          "Bricks",
+          "ContextAddFive"
+        ],
+        "docCode": "UuUni2lBricksContextAddFive",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni2l.Bricks.ContextAddFive />"
+      },
+      {
+        "code": "UuUni2l.Bricks.AlertComponent",
+        "name": "AlertComponent",
+        "tagList": [
+          "UuUni2l",
+          "Bricks",
+          "AlertComponent"
+        ],
+        "docCode": "UuUni2lBricksAlertComponent",
+        "desc": "",
+        "icon": "",
+        "imageUri": "",
+        "uuEccReady": false,
+        "template": "<UuUni2l.Bricks.AlertComponent />"
+      }
+    ]
+  },
+  "uu_uni2l_maing01-server": {}
+}

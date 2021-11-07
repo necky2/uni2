@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`WelcomeRow should match snapshot 1`] = `
+<Row
+  className="uuunil-bricks-fhocr9"
+  id="id"
+>
+  <Column
+    className="uuunil-bricks-1lpj47f"
+    colWidth="xs-12 s-2"
+  >
+    <Icon
+      className="uuunil-bricks-17rc17m"
+    />
+  </Column>
+  <Column
+    className="uuunil-bricks-yhnbk"
+    colWidth="xs-12 s-10"
+  />
+</Row>
+`;

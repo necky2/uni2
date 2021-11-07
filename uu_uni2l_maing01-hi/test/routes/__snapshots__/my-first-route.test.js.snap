@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`UuUni2l.Routes.MyFirstRoute default props 1`] = `
+<div
+  className="uuunil-routes-0"
+>
+  <UuUni2l.Bricks.AddFive />
+  <UuUni2l.Bricks.AddFive
+    number={3}
+  />
+  <UuUni2l.Bricks.AddFive
+    number={300}
+  />
+</div>
+`;
